@@ -1,2 +1,2 @@
-# Algo-design-1-C20
-implemented bounceOff and isTouching
+# p5.play-boilerplate
+Boiler plate for p5.play
